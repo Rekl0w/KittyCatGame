@@ -21,3 +21,5 @@ yön simgesi küçülmeyi belirtir. Kedi bu simgeye temas ederse küçülür.
 
 Bomba: Kedi gelen bombalara temas ederse oyun biter.
 
+ÖNEMLİ NOT: Ses dosyaları JDK 8 ile uyumludur. Seslerin çalışması için JDK 8 ile çalıştırınız.
+
